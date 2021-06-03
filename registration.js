@@ -1,0 +1,1 @@
+$(".form").addClassList('trial');
